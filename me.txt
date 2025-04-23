@@ -1,2 +1,0 @@
-i removed e2e folder 
-gpt says can set up cypress instead
